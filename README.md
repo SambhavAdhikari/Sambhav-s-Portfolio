@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science Engineering Student • Full Stack Developer • Open Source Enthusiast</strong>
+  <strong>Computer Science Engineering Student • Full Stack Developer • Cyber Security and Networking Enthusiast</strong>
 </p>
 
 ---
@@ -101,10 +101,10 @@ Visit the live website:
 https://www.sambhavadhikari.com.np
 
 💼 LinkedIn  
-(Add your LinkedIn URL)
+www.linkedin.com/in/sambhavadhikari
 
 📧 Email  
-(Add your email)
+mail@sambhavadhikari.com.np
 
 🐙 GitHub  
 https://github.com/SambhavAdhikari
@@ -120,5 +120,5 @@ It motivates me to build more awesome projects!
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Sambhav Adhikari</strong>
+  Made by <strong>Sambhav Adhikari</strong>
 </p>

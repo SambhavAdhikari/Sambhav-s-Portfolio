@@ -16,7 +16,8 @@
 
 Hi, I'm **Sambhav Adhikari**, a Computer Science Engineering student passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies.
 
-I enjoy creating modern, responsive, and user-friendly applications while exploring backend development, cloud technologies, and artificial intelligence.
+I enjoy creating modern, responsive, and user-friendly applications while exploring backend development, cloud technologies, artificial intelligence and many others.
+
 
 ---
 
